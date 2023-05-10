@@ -4,6 +4,13 @@
 
 This is a simple photo gallery project built using TypeScript. It fetches photos from the Unsplash API based on a user's search query and displays them in a gallery format.
 
+
+
+## Live Demo
+
+You can access the live demo of the application [here](https://ganeshparmar.github.io/PhotoGalleryTypeScript/).
+
+
 ## Project Structure
 
 The project structure is as follows:
