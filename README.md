@@ -26,7 +26,7 @@ The TypeScript files in the `ts/` directory need to be compiled into JavaScript 
 
 To compile the TypeScript files, you can use a TypeScript compiler such as `tsc`. Run the following command in the project directory:
 
-tsc
+$ tsc
 
 This will compile the TypeScript files and generate the corresponding JavaScript files in the `compiledjs/` directory.
 
