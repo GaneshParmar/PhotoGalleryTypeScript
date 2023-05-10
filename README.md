@@ -16,8 +16,8 @@ The project structure is as follows:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/photo-gallery-typescript.git`
-2. Navigate to the project directory: `cd photo-gallery-typescript`
+1. Clone the repository: `git clone https://github.com/GaneshParmar/PhotoGalleryTypeScript.git`
+2. Navigate to the project directory: `cd PhotoGalleryTypeScript`
 3. Open `index.html` in a web browser to view the photo gallery.
 
 ## Compilation
